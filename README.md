@@ -10,3 +10,5 @@ ipynb檔須跟據自己的檔案路徑來修改，才能在Google Colab上執行
 TensorFlow-GPU==2.8.0
 
 CUDA 11.2.0 + cuDNN 8.1.0
+
+原始程式碼: https://keras.io/examples/generative/neural_style_transfer/
